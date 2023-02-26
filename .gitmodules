@@ -1,0 +1,3 @@
+[submodule "Assets/Code/TheVoicesSpeechAnalysis"]
+	path = Assets/Code/TheVoicesSpeechAnalysis
+	url = https://github.com/AlinBoghian/TheVoicesSpeechAnalysis
