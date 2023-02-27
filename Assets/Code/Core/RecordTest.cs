@@ -18,8 +18,6 @@ public class RecordTest : MonoBehaviour
         if (_time > 1)
         {
             _time = 0;
-            _ai.startRecord();
-            _ai.stopRecord();
         }
         else
         {
